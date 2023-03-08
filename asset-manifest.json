@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bounty/static/css/main.7bf21d49.css",
+    "main.js": "/bounty/static/js/main.1e514d7c.js",
+    "index.html": "/bounty/index.html",
+    "main.7bf21d49.css.map": "/bounty/static/css/main.7bf21d49.css.map",
+    "main.1e514d7c.js.map": "/bounty/static/js/main.1e514d7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bf21d49.css",
+    "static/js/main.1e514d7c.js"
+  ]
+}
